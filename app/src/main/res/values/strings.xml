@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">thoitiet</string>
+    <array name="chon">
+        <item>Danang</item>
+        <item>Tp.HCM</item>
+    </array>
+</resources>
